@@ -1,4 +1,9 @@
-## Hi there 👋
+{\textsf{e}}\color{rgb(45,8,87)}{\textsf{l}}\color{rgb(87,6,82)}{\textsf{i}}\color{rgb(130,4,77)}{\textsf{n}}\color{rgb(168,2,73)}{\textsf{g}}$ $\color{rgb(200,1,70)}{\textsf{l}}\color{rgb(204,34,98)}{\textsf{u}}\color{rgb(210,69,128)}{\textsf{c}}\color{rgb(209,98,150)}{\textsf{k}}\color{rgb(166,132,150)}{\textsf{y}}\color{rgb(133,158,149)}{\textsf{?}}\color{rgb(109,177,149)}{\textsf{?}}$
+<p align=center>
+<img width=550 height=300 src=https://github.com/user-attachments/assets/a9d4bf40-625d-4f15-8b6a-9ef9c414618f>
+</p>
+<p align=center>
+<img width=540 height=7 src="https://github.com/user-attachments/assets/64ec46dd-60da-477e-9641-27a65af269f7"/>
 
 <!--
 **avenueq/avenueq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
