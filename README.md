@@ -1,5 +1,10 @@
 <p align=center>
 $\color{rgb(163, 41, 75)}{\textsf{m}}\color{rgb(189, 82, 108)}{\textsf{a}}\color{rgb(206, 97, 126)}{\textsf{d}}\color{rgb(231, 127, 150)}{\textsf{e}}$ $\color{rgb(226, 146, 168)}{\textsf{b}}\color{rgb(237, 168, 187)}{\textsf{y}}$ $\color{rgb(244, 203, 213)}{\textsf{b}}\color{rgb(229, 187, 200)}{\textsf{o}}\color{rgb(216, 218, 205)}{\textsf{o}}\color{rgb(208, 235, 214)}{\textsf{t}}\color{rgb(225, 247, 222)}{\textsf{h}}\color{rgb(241, 253, 229)}{\textsf{l}}\color{rgb(249, 254, 232)}{\textsf{l}}\color{rgb(225, 247, 222)}{\textsf{༝༚༝༚}}$
+  <p align="center">
+  <a href="https://github.com/avenueq">
+    <img src="https://komarev.com/ghpvc/?username=avenueq&color=ffdede&style=flat-square&label=♡&base=2000" alt="Profile Views" />
+  </a>
+</p>
 </p>
 <p align=center>
 <img width=540 height=7 src="https://github.com/user-attachments/assets/9ac32c8f-849c-4923-9a36-4690398ff434"/>
