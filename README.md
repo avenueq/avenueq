@@ -27,7 +27,9 @@ $\color{rgb(165, 41, 75)}{\textsf{a}}\color{rgb(229, 128, 152)}{\textsf{l}}\colo
 $\color{rgb(226, 136, 157)}{\textsf{⛃}}$　 :　 she 𝄒 　﹙ 🎰 ﹚
 </p>
 <p align=center>
-<img width=440 height=360 src=https://github.com/user-attachments/assets/88e8f274-4db4-454d-91a1-f9ff41bdbd05>
+<img width=400
+  height=150
+src=https://github.com/user-attachments/assets/88e8f274-4db4-454d-91a1-f9ff41bdbd05>
 </p>
 <p align=center>
 🎲　 $\color{rgb(163, 41, 75)}{\textsf{s}}\color{rgb(189, 82, 108)}{\textsf{t}}\color{rgb(206, 97, 126)}{\textsf{r}}\color{rgb(231, 127, 150)}{\textsf{a}}\color{rgb(226, 146, 168)}{\textsf{w}}\color{rgb(237, 168, 187)}{\textsf{p}}$ $\color{rgb(244, 203, 213)}{\textsf{╱}}$ $\color{rgb(229, 187, 200)}{\textsf{a}}\color{rgb(216, 218, 205)}{\textsf{v}}\color{rgb(208, 235, 214)}{\textsf{e}}\color{rgb(225, 247, 222)}{\textsf{n}}\color{rgb(241, 253, 229)}{\textsf{n}}\color{rgb(249, 254, 232)}{\textsf{s}}\color{rgb(225, 247, 222)}{\textsf{s}}\color{rgb(208, 235, 214)}{\textsf{p}}$　 .◞
