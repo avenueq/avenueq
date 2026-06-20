@@ -27,7 +27,7 @@ $\color{rgb(165, 41, 75)}{\textsf{a}}\color{rgb(229, 128, 152)}{\textsf{l}}\colo
 $\color{rgb(226, 136, 157)}{\textsf{⛃}}$　 :　 she 𝄒 　﹙ 🎰 ﹚
 </p>
 <p align=center>
-<img width=700
+<img width=480
   height=250
 src=https://github.com/user-attachments/assets/88e8f274-4db4-454d-91a1-f9ff41bdbd05>
 </p>
